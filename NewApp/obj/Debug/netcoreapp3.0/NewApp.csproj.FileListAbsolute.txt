@@ -1,0 +1,11 @@
+D:\Sayantani\NewApp\bin\Debug\netcoreapp3.0\NewApp.exe
+D:\Sayantani\NewApp\bin\Debug\netcoreapp3.0\NewApp.deps.json
+D:\Sayantani\NewApp\bin\Debug\netcoreapp3.0\NewApp.runtimeconfig.json
+D:\Sayantani\NewApp\bin\Debug\netcoreapp3.0\NewApp.runtimeconfig.dev.json
+D:\Sayantani\NewApp\bin\Debug\netcoreapp3.0\NewApp.dll
+D:\Sayantani\NewApp\bin\Debug\netcoreapp3.0\NewApp.pdb
+D:\Sayantani\NewApp\obj\Debug\netcoreapp3.0\NewApp.csprojAssemblyReference.cache
+D:\Sayantani\NewApp\obj\Debug\netcoreapp3.0\NewApp.AssemblyInfoInputs.cache
+D:\Sayantani\NewApp\obj\Debug\netcoreapp3.0\NewApp.AssemblyInfo.cs
+D:\Sayantani\NewApp\obj\Debug\netcoreapp3.0\NewApp.dll
+D:\Sayantani\NewApp\obj\Debug\netcoreapp3.0\NewApp.pdb
